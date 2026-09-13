@@ -312,20 +312,11 @@ SYSTEMS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ethical-Ego&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F14&title_color=00E5FF&icon_color=8B5CF6&text_color=FFFFFF&ring_color=00E5FF" />
+<img width="49%" src="./profile/stats.svg" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethical-Ego&layout=compact&hide_border=true&bg_color=0B0F14&title_color=00E5FF&text_color=FFFFFF&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Ethical-Ego&theme=dark&hide_border=true&background=0B0F14&ring=00E5FF&fire=FF3D71&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=7F8C98"/>
+<img width="49%" src="./profile/top-langs.svg" alt="Top Languages"/>
 
 </div>
-
 ---
 
 ## `09 // ACTIVITY GRAPH`
