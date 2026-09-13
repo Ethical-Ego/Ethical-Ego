@@ -14,7 +14,7 @@
 <a href="mailto:prathameshnyamagoudar22@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-0B0F14?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
-<a href="https://www.linkedin.com/in/prathamesh-nyamagoudar">
+<a href="https://www.linkedin.com/in/prathamesh-nyamagoudar-938572428">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B0F14?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
